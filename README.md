@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/50388731/233930744-c231e527-ac89-48ab-
 
 The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
 
-Alongside building this application, you'll also learn how to:
+From building this application,I also learned how to:
 
 * develop visually appealing UI/UX designs
 * fetch data from an external API and integrate it
